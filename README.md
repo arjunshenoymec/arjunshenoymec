@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, I'm Arjun Shenoy. 
+
 <!--
 **arjunshenoymec/arjunshenoymec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
