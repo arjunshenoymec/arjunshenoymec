@@ -2,6 +2,12 @@
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/arjunshenoylinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arjunshenoymec&style=flat-square&color=blue" height="25" alt=""/>
+ </div>
 
 Welcome to my git hub profile 🙂 
 
@@ -9,7 +15,7 @@ My full name is "Arjun Shenoy Arakkaparambil Vasudeva" but people usually call m
 
 <h3> About me: </h3>
 - I'm a Machine Learning enthusiast with a background in computer systems and data science. What I like to do the most is to develop solutions to problems faced by me or those around me. <br/> 
-- I'm also passionate about Deep learning and other aspects of [bio-inspired computing](https://en.wikipedia.org/wiki/Bio-inspired_computing). <br />
+- My current craze is Deep learning and other aspects of <a href="https://en.wikipedia.org/wiki/Bio-inspired_computing"> bio-inspired computing </a>. <br />
 
 <h4> How it all started </h4> 
 
@@ -31,6 +37,7 @@ My very first proper project was building a classic car racing game (in the old 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" title="RedHat Linux" alt="redhat" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -38,7 +45,6 @@ My very first proper project was building a classic car racing game (in the old 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
 </div>
-
 
 <!--
 **arjunshenoymec/arjunshenoymec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
