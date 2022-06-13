@@ -4,9 +4,9 @@
 </h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/arjunshenoylinkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arjunshenoymec&style=flat-square&color=blue" height="25" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=arjunshenoymec&style=flat-square&color=blue" height="20" alt=""/>
  </div>
 
 Welcome to my git hub profile 🙂 
